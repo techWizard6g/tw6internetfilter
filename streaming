@@ -7,6 +7,17 @@ netflix.net
 *.prod.partner.netflix.net
 *.prod.cloud.netflix.com
 atom.peacocktv.com
+disney-plus.net
+disneyplus.com
+disneyplus.disney.co.jp
+dssott.com
+dssott.com.c.footprint.net
+search-api-disney.bamgrid.com
+hulu.com
+*.hulu.com
+*.disneyplus.com
+*.disney-plus.net
+
 *.nflxext.com
 *.nflximg.net
 *.nflxso.net
