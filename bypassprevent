@@ -757,12 +757,6 @@
 *.doh.dscloud.me
 *.duapps.com
 *.duba.net
-*.aattwwss.duckdns.org
-*.home27.duckdns.org
-*.jurre-home.duckdns.org
-*.krtekvpn.duckdns.org
-*.tuandns.duckdns.org
-*.vpschito.duckdns.org
 *.dukun.de
 *.dutchproxy.nl
 *.dns.dyn1.de
@@ -1560,11 +1554,6 @@
 *.newshosting.com
 *.meteor.newsofmaricopa.com
 *.doh.luigi.nexific.it
-*.dns.nextdns.io
-*.dns1.nextdns.io
-*.dns2.nextdns.io
-*.edge.nextdns.io
-*.steering.nextdns.io
 *.ngrok.app
 *.ngrok.com
 *.ngrok.dev
