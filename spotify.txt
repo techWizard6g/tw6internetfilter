@@ -12,4 +12,14 @@ spotifycdn.net
 open.spotify.com
 www.spotify.com
 pickasso.spotifycdn.com
+api.spotify.com
+exp.wg.spotify.com
+i.scdn.co
+spclient.wg.spotify.com
+lineup-images.scdn.co
+daily-mix.scdn.co
+open.spotifycdn.com
+open-exp.spotifycdn.com
+
+
 
