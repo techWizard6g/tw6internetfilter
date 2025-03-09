@@ -13,6 +13,7 @@ open.spotify.com
 www.spotify.com
 pickasso.spotifycdn.com
 api.spotify.com
+charts-images.scdn.co
 exp.wg.spotify.com
 i.scdn.co
 spclient.wg.spotify.com
