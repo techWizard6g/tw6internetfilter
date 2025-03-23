@@ -9,8 +9,17 @@ feelinsonice.appspot.com
 sc-analytics.appspot.com
 sc-cdn.net
 sc-gw.com
+gcs.sc-cdn.net
+aw.sc-cdn.net
+cf-st.sc-cdn.net
+us-east1-aws.api.sc-gw.com
+aws-proxy-gcp.api.snapchat.com
 sc-jpl.com
 sc-prod.net
 snap-dev.net
 snapads.com
 snapchat.com
+gcp.api.sc-gw.com
+*.sc-gw.com
+*.sc-cdn.net
+*.snapchat.com
