@@ -1,0 +1,8 @@
+duolingo-ai-chapters-prod.duolingo.com
+*.duolingo.com
+duolingo.com
+infra-edge-gateway-prod.duolingo.com
+*.*.duolingo.com
+ios-api-2.duolingo.com
+localization-duostrings.duolingo.com
+
