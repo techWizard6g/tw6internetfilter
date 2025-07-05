@@ -1,0 +1,14 @@
+connectivitycheck.gstatic.com
+*.gstatic.com
+*.google.com
+*google.com
+google.com
+*.google.*
+google.*
+apple.com
+*.apple.com
+apple.*
+*.apple.*
+msftncsi.com
+samsung.com
+
