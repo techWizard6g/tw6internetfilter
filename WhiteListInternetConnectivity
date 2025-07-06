@@ -11,4 +11,5 @@ apple.*
 *.apple.*
 msftncsi.com
 samsung.com
-
+*.samsung.com
+*.*.samsung.com
