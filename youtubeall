@@ -15,7 +15,11 @@ youtubegaming.com
 youtubei.googleapis.com
 youtubekids.com
 yt3.ggpht.com
+img.youtube.com
+*.youtube.com
+www.youtube.com
 ytimg.com
+*.ytimg.com
 *.googlevideo.com
 *.youtu.be
 *.youtube
@@ -32,7 +36,6 @@ piped.video
 invidious.fdn.fr
 vid.puffyan.us
 invidious.nerdvpn.de
-invidious.pr...segfau.lt
 invidious.lunar.icu
 inv.tux.pizza
 invidious.flokinet.to
