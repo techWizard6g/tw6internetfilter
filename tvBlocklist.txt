@@ -320,7 +320,6 @@ twitchsvc.net
 *.nebula.app
 *.nebula.tv
 *.netflix.com.edgesuite.net
-*.dualstack.apiproxy-*.amazonaws.com
 *.fast.com
 *.netflix.ca
 *.netflix.com
