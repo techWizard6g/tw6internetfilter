@@ -99,8 +99,6 @@ starz.com
 nebula.app
 nebula.tv
 |netflix.com.edgesuite.net
-dualstack.apiproxy-*.amazonaws.com
-dualstack.ichnaea-web-*.amazonaws.com
 fast.com
 netflix.ca
 netflix.com
@@ -323,7 +321,6 @@ twitchsvc.net
 *.nebula.tv
 *.netflix.com.edgesuite.net
 *.dualstack.apiproxy-*.amazonaws.com
-dualstack.ichnaea-web-*.amazonaws.com
 *.fast.com
 *.netflix.ca
 *.netflix.com
