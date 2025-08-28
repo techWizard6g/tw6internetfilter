@@ -1,24 +1,3 @@
-# --------------------------------------------
-# P A C K  D E T A I L S
-# --------------------------------------------
-# Title: TikTok blocklist
-# Description: A blocklist to destroy any and all domains associated with TikTok, this is not just an ad/track blocker.
-# Format: domain list
-# Release: 3
-# Updated: Wed, 15 Apr 20 22:28
-# Some credit goes to https://github.com/llacb47/mischosts/blob/master/tiktok-hosts
-# --------------------------------------------
-#
-# Add these Regex lines to the blacklist manually:
-# --------------------------------------------
-# (^|\.)musical\.ly$
-# (^|\.)muscdn\.com$
-# (^|\.)nas13\.man\.opaltelecom\.net
-# (^|\.)deploy\.static\.akamaitechnologies\.com$
-# (^|\.)tiktokv.com$
-# (^|\.)byteoversea.com$
-# (^|\.)tiktok.com$
-#---------------------------------------------
 smr-aliva.byteoversea.com
 api2-16-h2-eagle.musical.ly
 p16-sg.tiktokcdn.com
@@ -27,9 +6,11 @@ p16-sg.tiktokcdn.com
 *.tiktokv.com
 starling.tiktokv.us
 *.tiktokv.us
+*.tiktokv.us
 p16-pu-sign-useast8.tiktokcdn-us.com
 p19-pu-sign-useast8.tiktokcdn-us.com
 *.tiktokcdn-us.com
+tiktokv.us
 dm-maliva16.byteoversea.com
 dm16.tiktokv.com
 dm-maliva-quic.byteoversea.com
@@ -211,3 +192,4 @@ api2-16-h2.musical.ly.edgekey.net
 api2-19-h2.musical.ly
 api2-19-h2.musical.ly.edgekey.net
 sf-tk-sg.ibytedtos.com
+
