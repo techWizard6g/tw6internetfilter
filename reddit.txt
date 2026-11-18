@@ -6,4 +6,5 @@ redditstatic.com
 *.reddit.com
 *.redditmedia.com
 *.redditstatic.com
-
+reddit.thejonesfamilyserver.webredirect.org
+redlib.thejonesfamilyserver.webredirect.org
