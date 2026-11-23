@@ -16,6 +16,29 @@ websites:
       - discord.com
       - discord.gg
 
+  tiktok:
+    domains:
+      - tiktok.com
+
+  tumblr:
+    domains:
+      - tumblr.com
+
   ao3:
     domains:
       - archiveofourown.org
+
+  github:
+    domains:
+      - github.com
+
+  nytimes:
+    domains:
+      - nytimes.com
+
+  lemmy:
+    domains:
+      - lemmy.blahaj.zone
+      - lemmy.ml
+      - lemmy.world
+
