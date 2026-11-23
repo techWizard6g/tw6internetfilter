@@ -1,0 +1,21 @@
+websites:
+  reddit:
+    domains:
+      - reddit.com
+      - www.reddit.com
+      - reddit.thejonesfamilyserver.webredirect.org
+      - redlib.thejonesfamilyserver.webredirect.org
+
+  youtube:
+    domains:
+      - youtube.com
+      - www.youtube.com
+
+  discord:
+    domains:
+      - discord.com
+      - discord.gg
+
+  ao3:
+    domains:
+      - archiveofourown.org
